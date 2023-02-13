@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw" version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="circle" id="id1148898375">
+            <circle cx="733.1632653061224" cy="232.5510204081629" r="73.5" latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="lightgray"/>
+        </g>
+        <g latexdraw:type="text" id="id1570518714" fill="black" latexdraw:position="bl">
+            <text x="144.8979591836735" y="337.55102040816337">Inner join</text>
+        </g>
+        <g latexdraw:type="arc" id="id2062764637" transform="rotate(26.98676431627333) translate(82.47459688899357 -125.27328742514774)">
+            <path d="M 159.0752830437058 194.22606892744568 A 72.857142857143 72.857142857143 0.0 0 0 219.7959183673471 307.3469387755108 " latexdraw:borderPos="outer" stroke-width="1.0" stroke="black" fill="lightgray" latexdraw:rotationAngle="0.47100789177868596"/>
+        </g>
+        <g latexdraw:type="arc" id="id1771339510" transform="rotate(-151.50852684846365) translate(-390.5324469908624 -371.0524087880392)">
+            <path d="M 208.88390062976382 275.3657678072492 A -72.857142857143 -72.857142857143 0.0 0 0 148.16326530612253 162.24489795918407 " latexdraw:borderPos="outer" stroke-width="2.0" stroke="black" fill="lightgray" latexdraw:rotationAngle="-2.6443226383519183"/>
+        </g>
+        <g latexdraw:type="circle" id="id1343111869">
+            <circle cx="148.0612244897959" cy="236.0204081632653" r="73.5" latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="circle" id="id43647292">
+            <circle cx="221.73469387755085" cy="233.9795918367347" r="73.5" latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id1103376319" fill="black" latexdraw:position="bl">
+            <text x="415.30612244897975" y="339.38775510204096">Left join</text>
+        </g>
+        <g latexdraw:type="circle" id="id1187571560">
+            <circle cx="657.0408163265308" cy="235.61224489795904" r="73.5" latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="lightgray"/>
+        </g>
+        <g latexdraw:type="text" id="id1468280453" fill="black" latexdraw:position="bl">
+            <text x="662.0408163265308" y="336.7346938775511">Outer join</text>
+        </g>
+        <g latexdraw:type="arc" id="id1145678560" transform="rotate(25.556135442561903) translate(28.764745398209357 -338.47291581827443)">
+            <path d="M 792.5573700175195 272.9167882154119 A -72.857142857143 -72.857142857143 0.0 0 0 731.8367346938782 159.79591836734676 " latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="lightgray" latexdraw:rotationAngle="0.4460387075583234"/>
+        </g>
+        <g latexdraw:type="circle" id="id1550813027">
+            <circle cx="482.75510204081615" cy="233.97959183673424" r="73.5" latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="#fefefe"/>
+        </g>
+        <g latexdraw:type="circle" id="id1531418033">
+            <circle cx="406.6326530612246" cy="237.04081632653038" r="73.5" latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="lightgray"/>
+        </g>
+        <g latexdraw:type="arc" id="id2041604008" transform="rotate(25.556135442561903) translate(53.88019301984252 -230.58780409542214)">
+            <path d="M 542.1492067522132 274.3453596439832 A -72.857142857143 -72.857142857143 0.0 0 0 481.4285714285719 161.2244897959181 " latexdraw:borderPos="outer" stroke-width="3.0" stroke="black" fill="lightgray" latexdraw:rotationAngle="0.4460387075583234"/>
+        </g>
+    </g>
+    <defs/>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes/>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>2.4499999999999993</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>20</latexdraw:gridGap>
+            <latexdraw:magneticGrid>false</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.8</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>2562</latexdraw:width>
+                <latexdraw:height>1405</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>-1.0</latexdraw:x>
+                <latexdraw:y>0.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
