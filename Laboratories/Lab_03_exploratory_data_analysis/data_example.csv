@@ -1,0 +1,13 @@
+type_of_food,some_other_attribute
+fruit,0.3
+vegetable,0.4
+fruit,0.2
+meat,0.3
+fruit,0.6
+vegetable,0.7
+fruit,0.3
+meat,0.4
+vegetable,0.2
+vegetable,0.3
+fruit,0.6
+fruit,0.7
